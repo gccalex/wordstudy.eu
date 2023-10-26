@@ -2,6 +2,7 @@ baseURL = ''
 languageCode = 'en-us'
 title = 'wordstudy.eu'
 theme = "m10c"
+googleAnalytics = 'UA-102138540-1'
 
 
 
