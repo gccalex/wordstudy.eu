@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Матфея on wordstudy.eu</title>
-    <link>/tags/%D0%BC%D0%B0%D1%82%D1%84%D0%B5%D1%8F/</link>
+    <link>//localhost:1313/tags/%D0%BC%D0%B0%D1%82%D1%84%D0%B5%D1%8F/</link>
     <description>Recent content in Матфея on wordstudy.eu</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 04 Jun 2017 12:18:05 +0000</lastBuildDate>
-    <atom:link href="/tags/%D0%BC%D0%B0%D1%82%D1%84%D0%B5%D1%8F/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/%D0%BC%D0%B0%D1%82%D1%84%D0%B5%D1%8F/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Матфея 11:24</title>
-      <link>/%D0%BC%D0%B0%D1%82%D1%84%D0%B5%D1%8F-1124/</link>
+      <link>//localhost:1313/%D0%BC%D0%B0%D1%82%D1%84%D0%B5%D1%8F-1124/</link>
       <pubDate>Sun, 04 Jun 2017 12:18:05 +0000</pubDate>
-      <guid>/%D0%BC%D0%B0%D1%82%D1%84%D0%B5%D1%8F-1124/</guid>
-      <description>От Матфея 11:24&#xA;“но говорю вам, что земле Содомской отраднее будет в день суда, нежели тебе.”&#xA;Слова Капернауму который не покаялся…&#xA;Отсутствие покаяния хуже чем грех Содома.</description>
+      <guid>//localhost:1313/%D0%BC%D0%B0%D1%82%D1%84%D0%B5%D1%8F-1124/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;От Матфея 11:24&lt;br&gt;&#xA;“но говорю вам, что земле Содомской отраднее будет в день суда, нежели тебе.”&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Слова Капернауму который не покаялся…&lt;br&gt;&#xA;Отсутствие покаяния хуже чем грех Содома.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
