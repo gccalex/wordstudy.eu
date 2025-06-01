@@ -11,6 +11,6 @@ The Kingdom of God!
 
 He spoke to them about the same thing as before. Nothing new. 
 
-If Jesus would appear to you today I'm sure Hes message would never change. 
+If Jesus would appear to you today I'm sure His message would never change. 
 
 Eternal Salvation 
