@@ -1,7 +1,7 @@
 ---
 title: "My_great_post"
 date: 2025-07-23T15:19:49+01:00
-draft: true
+
 ---
 
 # Test post here 

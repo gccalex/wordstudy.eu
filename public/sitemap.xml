@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/post/my_great_post/</loc>
-    <lastmod>2025-07-23T15:19:49+01:00</lastmod>
+    <loc>//localhost:1313/post/my_great_post2/</loc>
+    <lastmod>2025-07-31T22:30:15+01:00</lastmod>
   </url><url>
     <loc>//localhost:1313/post/</loc>
-    <lastmod>2025-07-23T15:19:49+01:00</lastmod>
+    <lastmod>2025-07-31T22:30:15+01:00</lastmod>
   </url><url>
     <loc>//localhost:1313/</loc>
+    <lastmod>2025-07-31T22:30:15+01:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/my_great_post/</loc>
     <lastmod>2025-07-23T15:19:49+01:00</lastmod>
   </url><url>
     <loc>//localhost:1313/post/my-first-post1/</loc>
@@ -76,9 +79,6 @@
   </url><url>
     <loc>//localhost:1313/post/2019-07-20-%D0%B8%D0%BE%D0%B2-6/</loc>
     <lastmod>2019-07-20T13:26:55+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/post/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>

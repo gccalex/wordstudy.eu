@@ -6,8 +6,15 @@
     <description>Recent content on wordstudy.eu</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Jul 2025 15:19:49 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jul 2025 22:30:15 +0100</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My_great_post2</title>
+      <link>//localhost:1313/post/my_great_post2/</link>
+      <pubDate>Thu, 31 Jul 2025 22:30:15 +0100</pubDate>
+      <guid>//localhost:1313/post/my_great_post2/</guid>
+      <description>&lt;h2 id=&#34;this-is-a-test-post&#34;&gt;this is a test post&lt;/h2&gt;</description>
+    </item>
     <item>
       <title>My_great_post</title>
       <link>//localhost:1313/post/my_great_post/</link>
@@ -27,14 +34,14 @@
       <link>//localhost:1313/post/%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F-%D0%B8-%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B/</link>
       <pubDate>Wed, 25 Oct 2023 14:36:34 +0100</pubDate>
       <guid>//localhost:1313/post/%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F-%D0%B8-%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B/</guid>
-      <description>&lt;h4 id=&#34;трудные-вопросы&#34;&gt;Трудные вопросы.&lt;/h4&gt;&#xA;&lt;p&gt;Страдание любого типа оставляет человека с вопросом.&lt;/p&gt;&#xA;&lt;p&gt;Вопросом заканчивается книга &amp;ldquo;Плач Иеремии&amp;rdquo;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Неужели Ты совсем отверг нас, прогневался на нас безмерно? (Плач Иеремии 5:22)&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Это последние слова этой книги.&lt;/p&gt;&#xA;&lt;p&gt;Пророк стал свидетелем горя, которое трудно вообразить. Свою боль он выразил на бумаге&amp;hellip;&lt;br&gt;&#xA;&amp;ldquo;Неужели Ты Бог настолько изменил Свое отношение к нам? Все эти страдания&amp;hellip; неужели они указывают на то что Ты окончательно против нас?&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;С этими трудными вопросами надо что-то делать иначе возникнут не нужные риски&amp;hellip; Нет! Разумеется посвященный христианин не станет вдруг отступником. Я далек от такой мысли. Но существует опастность другого рода. Например сказать где-то глубоко внутри себя: &amp;ldquo;Теперь мне ясно какой Ты на самом деле&amp;rdquo; (с искоркой недоверия в глазах) и с этих пор идти по жизни с оглядкой недоверия упрятанной глубоко внутри. И шаг за шагом внутри формируется искаженный образ Бога.&lt;/p&gt;</description>
+      <description>&lt;h4 id=&#34;трудные-вопросы&#34;&gt;Трудные вопросы&amp;hellip;.&lt;/h4&gt;&#xA;&lt;p&gt;Страдание любого типа оставляет человека с вопросом.&lt;/p&gt;&#xA;&lt;p&gt;Вопросом заканчивается книга &amp;ldquo;Плач Иеремии&amp;rdquo;..&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Неужели Ты совсем отверг нас, прогневался на нас безмерно? (Плач Иеремии 5:22)&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Это последние слова этой книги.&lt;/p&gt;&#xA;&lt;p&gt;Пророк стал свидетелем горя, которое трудно вообразить. Свою боль он выразил на бумаге&amp;hellip;&lt;br&gt;&#xA;&amp;ldquo;Неужели Ты Бог настолько изменил Свое отношение к нам? Все эти страдания&amp;hellip; неужели они указывают на то что Ты окончательно против нас?&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;С этими трудными вопросами надо что-то делать иначе возникнут не нужные риски&amp;hellip; Нет! Разумеется посвященный христианин не станет вдруг отступником. Я далек от такой мысли. Но существует опастность другого рода. Например сказать где-то глубоко внутри себя: &amp;ldquo;Теперь мне ясно какой Ты на самом деле&amp;rdquo; (с искоркой недоверия в глазах) и с этих пор идти по жизни с оглядкой недоверия упрятанной глубоко внутри. И шаг за шагом внутри формируется искаженный образ Бога.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Доброта Бога</title>
       <link>//localhost:1313/post/%D0%B4%D0%BE%D0%B1%D1%80%D0%BE%D1%82%D0%B0-%D0%B1%D0%BE%D0%B3%D0%B0/</link>
       <pubDate>Sat, 01 Jan 2022 18:10:05 +0100</pubDate>
       <guid>//localhost:1313/post/%D0%B4%D0%BE%D0%B1%D1%80%D0%BE%D1%82%D0%B0-%D0%B1%D0%BE%D0%B3%D0%B0/</guid>
-      <description>&lt;h1 id=&#34;доброта-бога&#34;&gt;Доброта Бога.&lt;/h1&gt;&#xA;&lt;p&gt;Бог добрый&amp;hellip;. Не взирая на не добрые обстоятельства&amp;hellip; это важный урок который следует накрепко усвоить. Ох не легкая это задача! для этого потребуется немало веры.&#xA;Посреди боли и страдания довольно не легко продолжать верить в доброту Бога. Для меня потребовалось время, чтобы понять что доброта Бога ко мне ярко выражена во Христе, и ни в чем и ни в ком другом&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Моя боль которую я переживю и Его неизменное доброе отношение ко мне во Христе Иисусе это не противоречие. Но я бы сделал шаг далее и сказал что доброта Бога во Христе это огромный противовес болям и страданиям.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;доброта-бога&#34;&gt;Доброта Бога.&lt;/h1&gt;&#xA;&lt;p&gt;Бог добрый&amp;hellip;. Не взирая на не добрые обстоятельства&amp;hellip; это важный урок который следует накрепко усвоить. Ох не легкая это задача! Для этого потребуется немало веры.&#xA;Посреди боли и страдания довольно не легко продолжать верить в доброту Бога. Для меня потребовалось время, чтобы понять что доброта Бога ко мне ярко выражена во Христе, и ни в чем и ни в ком другом&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Моя боль которую я переживаю и Его неизменное доброе отношение ко мне во Христе Иисусе это не противоречие. Но я бы сделал шаг далее и сказал что доброта Бога во Христе это огромный противовес болям и страданиям.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Разгром эгоизма</title>
@@ -168,13 +175,6 @@
       <pubDate>Sat, 20 Jul 2019 13:26:55 +0000</pubDate>
       <guid>//localhost:1313/post/2019-07-20-%D0%B8%D0%BE%D0%B2-6/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Иов 6:5&lt;br&gt;&#xA;5 Ревет ли дикий осел на траве? мычит ли бык у месива своего?&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;Иов задает вполне резонные вопросы.&lt;/p&gt;&#xA;&lt;p&gt;Имея полную чашу кто будет просить хлеба?&lt;br&gt;&#xA;Какой смысл бить тревогу в мирное время?&lt;br&gt;&#xA;Когда все в порядке, то кто будет вопиять о помощи?&lt;/p&gt;&#xA;&lt;p&gt;Согласен, такое поведение совершенно не логично.&lt;/p&gt;&#xA;&lt;p&gt;Однако, совсем другое дело это чувство ложного покоя во время беды.&lt;br&gt;&#xA;Видя перед собою избыток на обеденном столе, банковский счет со внушительными суммами, можно подумать что все хорошо!&lt;br&gt;&#xA;Так говорил себе один человек из знаменитой притчи: “много добра лежит у тебя, ешь пей веселись”.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>//localhost:1313/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/about/</guid>
-      <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;&gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;&#xA;&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/yuin/goldmark&#34;&gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/alecthomas/chroma&#34;&gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/muesli/smartcrop&#34;&gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
